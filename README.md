@@ -7,9 +7,9 @@ Indeed, I worked in the banking sector but i got tired of this sector.
 
 ## My current project :snowflake:
 
-:computer: I am currently working on a solidarity project between local merchants and junior developers
+:computer: I am currently working on a solidarity project between local merchants and junior developers.
 
 
 ## Contact :zap:
 
-:soon: Follow me on [Linkedin](https://www.linkedin.com/in/julien-gallerand-33ab0712b/) if you want to bitter your developer network or just to chat ! 😄 
+:soon: Follow me on [Linkedin](https://www.linkedin.com/in/julien-gallerand-33ab0712b/) if you want to bitter your developer network or just to tchat! 😄 

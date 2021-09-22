@@ -4,6 +4,7 @@
 
 :house_with_garden: I am a young student in the world of development; The WebForce3 organization welcomed me to allow me to realize my project of becoming a confirmed full stack developer. 
 Indeed, I worked in the banking sector but i got tired of this sector.
+Now, i study to the LP DReAM at IUT Paul Sabatier, Castres
 
 ## My current project :snowflake:
 
